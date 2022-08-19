@@ -12,8 +12,8 @@ Testing ui frameworks by building identical apps to find the best for static sit
 | Svelte    | ✭✭✭  | 20 KB   |
 | Sveltekit | ✭✭✭  | 82 KB   |
 | Gatsby    | ✭✭✭✭ | 1.6 MB  |
-| Nuxt      |      | |
-| Remix     | | |
+| Nuxt      | ✭✭✭✭✭| 315 KB  |
+| Remix     | ✭    | |
 | Ember     | | |
 | Backbone  | | |
 | Vite      | | |
