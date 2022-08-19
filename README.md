@@ -5,7 +5,7 @@ Testing ui frameworks by building identical apps to find the best for static sit
 
 | Framework | Setup | initial build size |
 | --------- | -----| -------  |
-| React     | | |
+| React     | ✭✭✭✭ | 594 KB |
 | Next.js   | | |
 | Vue.js    | | |
 | Angular   | | |
