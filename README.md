@@ -7,7 +7,7 @@ Testing ui frameworks by building identical apps to find the best for static sit
 | --------- | -----| -------  |
 | React     | ✭✭✭✭ | 578 KB |
 | Next.js   | ✭✭✭  | 393 KB |
-| Vue.js    | | |
+| Vue 3     | ✭✭✭✭✭| 66 KB|
 | Angular   | | |
 | Svelte    | ✭✭✭  | 20 KB   |
 | Sveltekit | ✭✭✭  | 82 KB   |
@@ -17,3 +17,6 @@ Testing ui frameworks by building identical apps to find the best for static sit
 | Ember     | | |
 | Backbone  | | |
 | Vite      | | |
+| lit       | | |
+| preact    | | |
+| vanilla   | | |
