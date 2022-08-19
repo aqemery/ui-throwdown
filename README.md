@@ -4,11 +4,11 @@ Testing ui frameworks by building identical apps to find the best for static sit
 
 
 | Framework | Setup | initial build size |
-| --------- | -----| -------  |
-| React     | ✭✭✭✭ | 578 KB |
-| Next.js   | ✭✭✭  | 393 KB |
-| Vue 3     | ✭✭✭✭✭| 66 KB|
-| Angular   | | |
+| --------- | -----| ------- |
+| React     | ✭✭✭✭ | 578 KB  |
+| Next.js   | ✭✭✭  | 393 KB  |
+| Vue 3     | ✭✭✭✭✭| 66 KB   |
+| Angular   | ✭✭✭✭ | 246 KB  |
 | Svelte    | ✭✭✭  | 20 KB   |
 | Sveltekit | ✭✭✭  | 82 KB   |
 | Gatsby    | ✭✭✭✭ | 1.6 MB  |
