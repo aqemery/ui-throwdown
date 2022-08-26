@@ -1,3 +1,10 @@
 <h1 class="text-3xl font-bold underline m-4">
   Hello world!
 </h1>
+<ul class="m-4">
+  <li *ngFor="let cat of cats; let i = index">
+    <a target="_blank" href="https://www.youtube.com/watch?v={{cat.id}}">
+      {{i + 1}}: {{cat.name}}
+    </a>
+  </li>
+</ul>
