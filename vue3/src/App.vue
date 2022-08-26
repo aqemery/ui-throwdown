@@ -12,7 +12,7 @@
   </h1>
   <ul class="m-4">
     <li v-for="(cat , i) in cats">
-      <a target="_blank" href="https://www.youtube.com/watch?v={{cat.id}}">
+      <a target="_blank" v-bind:href="'https://www.youtube.com/watch?v=' + cat.id">
         {{i + 1}}: {{cat.name}}
       </a>
     </li>
